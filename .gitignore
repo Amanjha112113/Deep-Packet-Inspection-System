@@ -1,0 +1,12 @@
+build/
+bin/
+*.pcap
+.DS_Store
+*.swp
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+.vscode/
+.idea/
