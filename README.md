@@ -149,7 +149,7 @@ TLS Client Hello:
 packet_analyzer/
 ├── include/                    # Header files (declarations)
 │   ├── pcap_reader.h          # PCAP file reading
-│   ├── packet_parser.h        # Network protocol parsing
+│   ├── packet_parser.h        # Network protocol parsings
 │   ├── sni_extractor.h        # TLS/HTTP inspection
 │   ├── types.h                # Data structures (FiveTuple, AppType, etc.)
 │   ├── rule_manager.h         # Blocking rules (multi-threaded version)
